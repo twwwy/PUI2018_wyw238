@@ -1,4 +1,4 @@
-### PUi2018 HW3
+# PUi2018 HW3
 ## All assignments are works of myself.
 
 The three screenshots are for assignment 1.
