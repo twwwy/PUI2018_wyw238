@@ -1,3 +1,7 @@
+## Contributor
+This homework is done solely by Wei-Yun Wang
+
+
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 ANCOVA	| 2, sex and diagnosis | categorical | 1, EYES test | numerical | 2, age, FIQ  | continuous | Do males and females who have ASC perform differently? | female ASC groups = male ASC groups | 0.05 | [Cognition in Males and Females with Autism: Similarities and Differences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047198) |
