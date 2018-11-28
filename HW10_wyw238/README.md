@@ -1,2 +1,2 @@
 # Contributor
-This homeworl is done solely by Wei-Yun Wang
+This homework is done solely by Wei-Yun Wang
